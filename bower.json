@@ -1,0 +1,29 @@
+{
+  "name": "mlc-boilerplate",
+  "description": "A starter kit to develop WordPress based websites using the specs commonly applied at Maquinário",
+  "main": "script.js",
+  "authors": [
+    "Bruno Scodeler <bruno@estudiomaquinario.com.br>"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "wordpress",
+    "mlc",
+    "boilerplate"
+  ],
+  "moduleType": [
+    "node"
+  ],
+  "homepage": "https://github.com/scodeler/mlc-boilerplate",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^2.2.0",
+    "neat": "^1.7.2"
+  }
+}

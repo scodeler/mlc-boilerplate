@@ -1,0 +1,7 @@
+/*!
+  Theme Name: ## THEME NAME ##
+  Author: Bruno Scodeler
+  Author URI: http://estudiomaquinario.com.br/
+  Description: ## THEME DESCRIPTION ##
+  Version: 1.0
+*/html{box-sizing:border-box}*,*::after,*::before{box-sizing:inherit}body{background:#000;max-width:68em;margin-left:auto;margin-right:auto}body::after{clear:both;content:"";display:table}

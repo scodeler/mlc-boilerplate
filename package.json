@@ -1,0 +1,30 @@
+{
+  "name": "mlc-boilerplate",
+  "version": "1.0.0",
+  "description": "A starter kit to develop WordPress based websites using the specs commonly applied at Maquinário",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/scodeler/mlc-boilerplate.git"
+  },
+  "keywords": [
+    "wordpress",
+    "mlc",
+    "boilerplate"
+  ],
+  "author": "Bruno Scodeler <bruno@estudiomaquinario.com.br>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/scodeler/mlc-boilerplate/issues"
+  },
+  "homepage": "https://github.com/scodeler/mlc-boilerplate",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-compass": "^2.1.0",
+    "gulp-livereload": "^3.8.1",
+    "gulp-uglify": "^1.5.1"
+  }
+}

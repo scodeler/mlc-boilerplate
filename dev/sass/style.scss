@@ -1,0 +1,20 @@
+/*!
+  Theme Name: ## THEME NAME ##
+  Author: Bruno Scodeler
+  Author URI: http://estudiomaquinario.com.br/
+  Description: ## THEME DESCRIPTION ##
+  Version: 1.0
+*/
+
+/**
+  * This stylesheet was built using the CSS Framework Compass and Bourbon Neat
+  * Documentation available at http://compass-style.org/ & http://neat.bourbon.io/
+**/
+
+@import '../../bower_components/bourbon/app/assets/stylesheets/bourbon';
+@import '../../bower_components/neat/app/assets/stylesheets/neat';
+
+body{
+  background: #000;
+  @include outer-container();
+}
