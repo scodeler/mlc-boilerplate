@@ -53,6 +53,11 @@ Run Gulp
 # Contact info
 For further information, contact me at [bruno@estudiomaquinario.com.br]
 
+# ToDo's
+  * Add gulp-sourcemaps
+  * Add image optimization
+  * Add CoffeeScript
+
 
 ------
 
